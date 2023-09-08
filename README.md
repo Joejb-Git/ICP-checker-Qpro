@@ -1,6 +1,6 @@
 # 说明
 
-本脚本根据 ICP-Checker 2.1.5 修改，支持了“粗糙的”批量查询，原作者计划中会支持批量，但目前还没支持。
+本脚本根据 ICP-Checker 2.1.5 修改（原作者计划中会支持批量，但目前还没支持），支持了批量查询。
 
 https://github.com/wongzeon/ICP-Checker
 
